@@ -1,3 +1,5 @@
+# 24900865
+# NAME: PRIYA DHARSHNI.S
 # Fitting Poisson  distribution
 # Aim : 
 
@@ -30,10 +32,12 @@ The Poisson distribution is the discrete probability distribution of the number 
 
 # Program :
 
- 
+ ![image](https://github.com/user-attachments/assets/e89a8553-f6cd-429f-accd-315fd3d3d470)
+
 
 # Output : 
 
+![image](https://github.com/user-attachments/assets/d2ba1f18-94ed-41ea-964f-76a1b75f212d)
 
 
 # Results
