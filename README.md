@@ -1,3 +1,7 @@
+# NAME: PRIYA DHARSHNI.S
+# REG NO:24900865
+# EXP-2
+05/10/2024 
 # Fitting Poisson  distribution
 # Aim : 
 
@@ -30,13 +34,13 @@ The Poisson distribution is the discrete probability distribution of the number 
 
 # Program :
 
- 
+ ![Screenshot 2024-12-18 124643](https://github.com/user-attachments/assets/8beb2f79-b998-4891-a901-e9e1e4e69913)
+
 
 # Output : 
 
-
-
-# Results
-
-The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test. 
+![Screenshot 2024-12-18 124721](https://github.com/user-attachments/assets/4df289ec-15cc-44fe-9e26-077a17255971)
+# Result :
+ The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test.
  
+
